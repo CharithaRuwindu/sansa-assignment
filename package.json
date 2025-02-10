@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jspdf": "^2.5.2",
+    "react-router-dom": "^7.1.5"
+  }
+}
